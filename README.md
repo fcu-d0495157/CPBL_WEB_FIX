@@ -51,6 +51,8 @@
  
 (12)	然後點選左邊主機名稱底下的預設網頁，右邊欄位找到【新增虛擬目錄】 
  ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/112.jpg)
+ 
+ 
 別名的話，會出現在你將來的網址上，例如：http://[你的IP]/別名/子資料夾/檔名.xxx
  
  
@@ -129,6 +131,8 @@
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/423.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/424.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/425.jpg)
+
+
 上圖CPBL跟改失敗原因為資料已經到盡頭無法抓取資料，所以要跳轉到刪除使用者紀錄，好方便讓下一次使用者從頭看起。
 
 
@@ -137,5 +141,7 @@
 
 (8)	goback.php 
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/427.jpg)
+
+
 網頁操作方式：https://youtu.be/SREaWZKkrq0
 
