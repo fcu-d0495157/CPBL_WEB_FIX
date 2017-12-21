@@ -4,7 +4,7 @@
 一.	IIS
 使用Windows 10 如何設定IIS， 
 (1)	首先我們在桌面點擊左下角的【開始】  
-https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/11.jpg
+![Aaron Swartz](https://github.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/11.jpg)
 (2)	點擊【設定】 
  
 (3)	點擊【系統】 
