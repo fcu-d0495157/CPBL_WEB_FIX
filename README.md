@@ -75,6 +75,7 @@
  
 (3)	持續按下一步，直到安裝完成。
  
+ 
 三.	SQLite
 
 
@@ -105,10 +106,10 @@
 (3)	Instructions.php    
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/45.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/46.jpg)
+![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/47.jpg)
 
 
 (4)	num_logfile.php    
-![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/47.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/48.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/49.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/410.jpg)
