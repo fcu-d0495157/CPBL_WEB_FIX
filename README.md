@@ -46,6 +46,8 @@
  
  
 (11)	通常把上層目錄開啟 
+
+
  ![Aaron Swartz](https://raw.githubusercontent.com/fcu-d0495157/CPBL_WEB_FIX/master/my_img/111.jpg)
  
  
